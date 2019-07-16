@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "in.benow.android.instant",
+    "sha256_cert_fingerprints":
+    ["09:65:76:60:A4:02:62:A5:6E:5A:8D:28:B4:BD:93:3E:8E:47:3F:48:35:C9:BD:59:F0:FE:4D:FE:1F:F2:02:4A"]
+  }
+}]
